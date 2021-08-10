@@ -1,3 +1,4 @@
+<DecisionTable name="Calculate auto premium" processAll="True">
     <Declaration>
         <Define name="car" direction="In" />
         <Using path="FlexRule.Samples.CarInsurance.CarStyle" assembly="Car.Library.dll" />

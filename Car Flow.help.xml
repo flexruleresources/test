@@ -546,7 +546,7 @@ Load Cars Profile</Text>
     </Location>
     <Size>
       <Width>24.41605</Width>
-      <Height>11.25167</Height>
+      <Height>11.25166</Height>
     </Size>
     <Shape>Polyline</Shape>
     <SegmentCount>1</SegmentCount>
@@ -645,7 +645,7 @@ Load Cars Profile</Text>
       <Y>75.33279</Y>
     </Location>
     <Size>
-      <Width>28.33026</Width>
+      <Width>28.33031</Width>
       <Height>10.05367</Height>
     </Size>
     <Shape>Polyline</Shape>
@@ -725,7 +725,7 @@ Load Cars Profile</Text>
       </End>
     </Points>
   </NodeInfo>
-  <NodeInfo name="Note52" type="Note">
+  <NodeInfo name="Note81" type="Note">
     <Label>
       <Text>&lt;b&gt;&lt;color=#ff0000&gt;Note: Database setup is required.&lt;/color&gt;&lt;/b&gt;
 
