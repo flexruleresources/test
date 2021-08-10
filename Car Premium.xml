@@ -1,3 +1,4 @@
+<DRD name="Premium DRD">
   <Nodes>
     <Decision name="Premium" />
     <Decision name="Determain Rating">
