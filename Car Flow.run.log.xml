@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExecTemplate>
+  <Record date="2016-06-17T01:20:47.5143191Z" file="Car Flow.xml" title="Car Flow - Valid Data">
+    <Run providerType="Rule" file="TestData\flow-input.xml" />
+    <Options input="1" target="0" logic="" />
+  </Record>
+  <Record date="2016-06-17T01:21:04.8440983Z" file="Car Flow.xml" title="Car Flow - Invalid Data">
+    <Run providerType="Rule" file="TestData\flow-input-invalid-data.xml" />
+    <Options input="1" target="0" logic="" />
+  </Record>
+</ExecTemplate>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExecTemplate>
+  <Record date="2016-10-13T21:43:22.9858627Z" file="Cars-IRD.xml" title="Thefts">
+    <Run providerType="DataComposer" file="TestData\cars-db.dc.json" />
+    <Options input="1" target="0" logic="" />
+  </Record>
+</ExecTemplate>

@@ -1,0 +1,15 @@
+<Validation Description="">
+  <Logic Description="">
+    <And Description="">
+      <Null Description="" />
+      <Validate Description="" />
+      <Validate Description="" />
+    </And>
+  </Logic>
+  <Logic Description="">
+    <Or Description="">
+      <Null Description="" />
+      <Empty Description="" />
+    </Or>
+  </Logic>
+</Validation>

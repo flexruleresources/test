@@ -1,0 +1,51 @@
+<IRD name="High theft probability auto list">
+  <Nodes>
+    <DataKnowledge name="groups">
+      <Monad localName="-" name="groupBy">
+        <Param value="Use" />
+      </Monad>
+      <Transition name="Transition1" to="g1" expression="groups[0]" relationType="Information" />
+      <Transition name="Transition2" to="g2" expression="groups[1]" relationType="Information" />
+    </DataKnowledge>
+    <DataKnowledge name="g1">
+      <Monad localName="-" name="select">
+        <Param value="Made" />
+        <Param value="Model" />
+      </Monad>
+      <Transition name="Transition8" to="ab" relationType="Information" />
+      <Transition name="Transition10" to="ba" relationType="Knowledge" />
+    </DataKnowledge>
+    <DataKnowledge name="g2">
+      <Monad localName="-" name="select">
+        <Param value="Made" />
+        <Param value="Model" />
+      </Monad>
+      <Transition name="Transition7" to="ab" relationType="Knowledge" />
+      <Transition name="Transition9" to="ba" relationType="Information" />
+    </DataKnowledge>
+    <InputData name="cars" isOutput="False">
+      <Transition name="Transition3" to="groups" relationType="Information" />
+    </InputData>
+    <DataKnowledge name="ab">
+      <Monad name="except" />
+      <Transition name="Transition11" to="union ab-ba" relationType="Information" />
+    </DataKnowledge>
+    <DataKnowledge name="ba">
+      <Monad name="except" />
+      <Transition name="Transition12" to="union ab-ba" relationType="Knowledge" />
+    </DataKnowledge>
+    <DataKnowledge name="union ab-ba">
+      <Monad name="union" />
+      <Transition name="Transition19" to="Select8" relationType="Information" />
+    </DataKnowledge>
+    <OutputData name="probList">
+      <MultiExpression />
+    </OutputData>
+    <DataKnowledge name="Select8">
+      <Monad localName="x" name="select">
+        <Param value="x.Made+&quot;-&quot;+x.Model" />
+      </Monad>
+      <Transition name="Transition21" to="probList" relationType="Information" />
+    </DataKnowledge>
+  </Nodes>
+</IRD>

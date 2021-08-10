@@ -1,0 +1,40 @@
+<Validation Description="">
+    <Logic Description="">
+        <Or Description="">
+            <Validate Description="" />
+            <Validate Description="" />
+            <Validate Description="" />
+        </Or>
+    </Logic>
+    <Logic Description="">
+        <Or Description="">
+            <Check Description="" />
+            <And Description="">
+                <Check Description="" />
+                <Check Description="" />
+            </And>
+            <Not Description="">
+                <Check Description="" />
+            </Not>
+        </Or>
+        <Then Description="">
+            <Var Description="" />
+        </Then>
+    </Logic>
+    <Logic Description="">
+        <And Description="">
+            <Check Description="" />
+        </And>
+        <Then Description="">
+            <Var Description="" />
+        </Then>
+    </Logic>
+    <Logic Description="">
+        <And Description="">
+            <Check Description="" />
+        </And>
+        <Then Description="">
+            <Var Description="" />
+        </Then>
+    </Logic>
+</Validation>

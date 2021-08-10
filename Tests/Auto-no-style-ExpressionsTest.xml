@@ -1,0 +1,21 @@
+<ExpressionTreeTestCase name="Sample Expression Tree TestCase" logicFile="Auto-no-style.xml">
+    <Section name="DT Expressions">
+        <Test name="Extracted Expressions" source="TestData\car-for-expression-tests.dc.json" dataProvider="DataComposer">
+            <Expression value="car.TheftCategory==&quot;High&quot;" />
+            <Expression value="car.AutoPremium += 500" />
+            <Expression value="car.OccupantInjuryCategory==&quot;High&quot;" />
+            <Expression value="car.AutoPremium += 1000" />
+            <Expression value="car.OccupantInjuryCategory==&quot;ExtremelyHigh&quot;" />
+            <Expression value="car.AutoPremium += 600" />
+            <Expression value="car.HasMedicalCoverage==true" />
+            <Expression value="car.UninsuredMotoristCoverage==true" />
+            <Expression value="car.AutoPremium += 250" />
+            <Expression value="((car.Age &gt;= 5) &amp;&amp; (car.Age &lt;=  10))" />
+            <Expression value="car.AutoPremium += 300" />
+            <Expression value="(car.Age) &lt;= 5" />
+            <Expression value="car.AutoPremium += 400" />
+            <Expression value="(car.Age) &lt;6" />
+            <Expression value="(((car.ModelYear==DateTime.Today.Year) || (car.ModelYear==(DateTime.Today.Year+1))) == false)" />
+        </Test>
+    </Section>
+</ExpressionTreeTestCase>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExecTemplate>
+  <Record date="2016-06-17T01:14:14.4231672Z" file="Car Premium.xml" title="Car Premium DRD Scenario">
+    <Run providerType="DataComposer" file="TestData\car-for-DRD.dc.json" />
+    <Options input="1" target="0" logic="" />
+  </Record>
+</ExecTemplate>

@@ -1,0 +1,8 @@
+<Procedure id="Procedure1" Description="">
+    <Declaration id="Declaration1" Description="">
+        <Define id="Define1" Description="" />
+    </Declaration>
+    <Database id="Database1" Description="">
+        <SelectList Description="" id="SelectList1" />
+    </Database>
+</Procedure>

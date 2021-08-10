@@ -1,0 +1,45 @@
+<Natural name="rule name">
+  <Dsl>given FRD;
+
+/*
+	You need to have the database setup to run this flow
+	for more information check: https://resource.flexrule.com/knowledge-base/car-insurance/
+*/
+when This macro is ran 
+then
+	Make sure the debugger is stopped 
+	and  
+	Open the rule document ('Car Flow.xml') 
+	and
+	Run the rule  ('Car Flow.xml') 
+	with loaded data ('TestData\\flow-input.xml')
+	and
+	Make sure notification window is activated
+end
+
+
+when Make sure the debugger is stopped
+then
+	FRD.Debugger.Stop()
+end
+ 
+when Open the rule document {rule}
+then
+	FRD.OpenDocument(rule)
+end 
+
+when Run the rule {rule} with loaded data {data}
+then
+	FRD.Debugger.Run('Rule', rule, data, 'input')
+end
+
+when Debug the rule {rule} with loaded data {data}
+then
+	FRD.Debugger.Debug('Rule', rule, data, 'input')
+end
+
+when Make sure notification window is activated
+then
+	FRD.ShowWindow('parameters')
+end</Dsl>
+</Natural>
