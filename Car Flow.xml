@@ -45,7 +45,7 @@
         </Activity>
         <Activity name="Activity342">
             <CallIrd contextMode="New">
-                <IrdSource uri="Cars-IRD.xml" />
+                <IrdSource uri="" />
                 <Param name="cars" value="thefts" />
             </CallIrd>
             
