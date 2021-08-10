@@ -1,46 +1,47 @@
-<Flow name="Car Flow">
-  <Declaration>
-    <Define name="car" type="FlexRule.Samples.CarInsurance.Car" assembly="Car.Library.dll" direction="InOut" />
-    <Define name="isValid" type="System.Boolean" direction="Out" value="false" />
-    <Define name="probList" direction="Out" />
-    <Define name="thefts" direction="Local" />
-  </Declaration>
-  <Nodes>
-    <Start name="Start1">
-      <Transition name="Transition4" to="Activity3" />
-    </Start>
-    <End name="End1" />
-    <Activity name="Activity2">
-      <CallDrd contextMode="Shared">
-        <DrdSource uri="Car Premium.xml" />
-      </CallDrd>
-      <Transition name="Transition8" to="Activity4" />
-    </Activity>
-    <Activity name="Activity3">
-      <Validator return="isValid" contextMode="Shared">
-        <ValidatorSource uri="CarValidation.xml" />
-        <Param name="car" value="car" />
-      </Validator>
-      <Transition name="Transition5" to="Decision1" />
-    </Activity>
-    <Decision name="Decision1">
-      <Transition name="Transition10" to="Activity5" condition="isValid" />
-    </Decision>
-    <Activity name="Activity4">
-      <Transition name="Transition9" to="End1" />
-    </Activity>
-    <Activity name="Activity5">
-      <Database connection="Data Source=.\SqlExpress;Initial Catalog=Car-Insurance;User ID=sa;Password=123;MultipleActiveResultSets=True" type="MsSql">
-        <SelectList command="select * from Thefts" return="thefts" multi="True" expando="True" />
-      </Database>
-      <Transition name="Transition12" to="Activity6" />
-    </Activity>
-    <Activity name="Activity6">
-      <CallIrd contextMode="New">
-        <IrdSource uri="Cars-IRD.xml" />
-        <Param name="cars" value="thefts" />
-      </CallIrd>
-      <Transition name="Transition13" to="Activity2" />
-    </Activity>
-  </Nodes>
+<Flow name="Car Flow" version="1.0.0.0">
+    <Declaration>
+        <Define name="car" type="FlexRule.Samples.CarInsurance.Car" assembly="Car.Library.dll" direction="InOut" />
+        <Define name="isValid" type="System.Boolean" direction="Out" value="false" />
+        <Define name="probList" direction="Out" />
+        <Define name="thefts" direction="Local" />
+    </Declaration>
+    <Nodes>
+        <Start name="Start1">
+            <Transition name="Transition4" to="Activity3" />
+        </Start>
+        <End name="End1" />
+        <Activity name="Activity2">
+            <CallDrd contextMode="Shared">
+                <DrdSource uri="Car Premium.xml" />
+            </CallDrd>
+            <Transition name="Transition8" to="Activity4" />
+        </Activity>
+        <Activity name="Activity3">
+            <Validator return="isValid" contextMode="Shared">
+                <ValidatorSource uri="CarValidation.xml" />
+                <Param name="car" value="car" />
+            </Validator>
+            <Transition name="Transition5" to="Decision1" />
+        </Activity>
+        <Decision name="Decision1">
+            <Transition name="Transition6" to="Activity4" condition="!isValid" />
+            <Transition name="Transition10" to="Activity5" condition="isValid" />
+        </Decision>
+        <Activity name="Activity4">
+            <Transition name="Transition9" to="End1" />
+        </Activity>
+        <Activity name="Activity5">
+            <Database connection="Data Source=.\SqlExpress;Initial Catalog=Car-Insurance;User ID=sa;Password=123;MultipleActiveResultSets=True" type="MsSql">
+                <SelectList command="select * from Thefts" return="thefts" multi="True" expando="True" />
+            </Database>
+            <Transition name="Transition12" to="Activity6" />
+        </Activity>
+        <Activity name="Activity6">
+            <CallIrd contextMode="New">
+                <IrdSource uri="Cars-IRD.xml" />
+                <Param name="cars" value="thefts" />
+            </CallIrd>
+            <Transition name="Transition13" to="Activity2" />
+        </Activity>
+    </Nodes>
 </Flow>
