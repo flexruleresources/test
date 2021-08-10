@@ -463,68 +463,6 @@ Load Cars Profile</Text>
       </End>
     </Points>
   </NodeInfo>
-  <NodeInfo name="Transition6" type="Transition">
-    <Label>
-      <Text>No</Text>
-      <Font>
-        <Name>Microsoft Sans Serif</Name>
-        <Style>Regular</Style>
-        <Size>9</Size>
-      </Font>
-    </Label>
-    <FillColorFrom>-9868951</FillColorFrom>
-    <FillColorTo>-9868951</FillColorTo>
-    <Border>
-      <Color>-16777216</Color>
-      <Width>0.3</Width>
-    </Border>
-    <Location>
-      <X>72.09998</X>
-      <Y>96.35413</Y>
-    </Location>
-    <Size>
-      <Width>85.88333</Width>
-      <Height>58.54377</Height>
-    </Size>
-    <Shape>Cascading</Shape>
-    <SegmentCount>4</SegmentCount>
-    <Anchors>
-      <Origin>-1</Origin>
-      <Destination>-1</Destination>
-    </Anchors>
-    <Head>Triangle</Head>
-    <Pen>0/#FF000000/0.3/0/0//0/0/10/</Pen>
-    <Points>
-      <Point>
-        <X>72.39998</X>
-        <Y>96.65414</Y>
-      </Point>
-      <Point>
-        <X>72.39999</X>
-        <Y>154.5979</Y>
-      </Point>
-      <Point>
-        <X>99.82915</X>
-        <Y>154.5979</Y>
-      </Point>
-      <Point>
-        <X>99.82915</X>
-        <Y>154.4812</Y>
-      </Point>
-      <Point>
-        <X>157.6833</X>
-        <Y>154.4812</Y>
-      </Point>
-      <Start>
-        <X>72.39998</X>
-        <Y>96.65414</Y>
-      </Start>
-      <End>
-        <X>157.6833</X>
-        <Y>154.4812</Y>
-      </End>
-    </Points>
-  </NodeInfo>
   <NodeInfo name="Transition10" type="Transition">
     <Label>
       <Text></Text>
@@ -725,7 +663,7 @@ Load Cars Profile</Text>
       </End>
     </Points>
   </NodeInfo>
-  <NodeInfo name="Note81" type="Note">
+  <NodeInfo name="Note99" type="Note">
     <Label>
       <Text>&lt;b&gt;&lt;color=#ff0000&gt;Note: Database setup is required.&lt;/color&gt;&lt;/b&gt;
 
