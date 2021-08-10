@@ -1,1019 +1,917 @@
 <workbook>
-    <worksheets>
-        <worksheet name="Sheet1" defaultColumnWidth="48pt" defaultRowHeight="14.25pt" frozenRows="3">
-            <columnStyles>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="0" s="1" />
-                                <s p="1" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="0" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>54.75pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="1" s="1" />
-                                <s p="2" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="1" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>63pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="2" s="1" />
-                                <s p="3" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="2" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>48pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="3" s="1" />
-                                <s p="4" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="3" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>99pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="4" s="1" />
-                                <s p="5" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="4" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>91.5pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="5" s="1" />
-                                <s p="6" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="5" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>92.25pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="6" s="1" />
-                                <s p="7" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="6" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>70.5pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="7" s="1" />
-                                <s p="8" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="7" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>55.5pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="8" s="1" />
-                                <s p="9" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="8" y="0" width="1" height="1" />
-                    <style t="1">
-                        <width>48pt</width>
-                        <hidden>0</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="9" s="1" />
-                                <s p="1024" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="9" y="0" width="1015" height="1" />
-                    <style t="1">
-                        <hidden>1</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-            </columnStyles>
-            <rowStyles>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="1" s="1" />
-                                <s p="2" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="1" y="0" width="1" height="1" />
-                    <style t="2">
-                        <height>14.25pt</height>
-                        <outlineLevel>1</outlineLevel>
-                        <conditionalFormats />
-                        <fontSize>8</fontSize>
-                        <fontItalic>1</fontItalic>
-                        <halign>2</halign>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="3" s="1" />
-                                <s p="4" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="3" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="4" s="1" />
-                                <s p="5" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="4" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="5" s="1" />
-                                <s p="6" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="5" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="6" s="1" />
-                                <s p="7" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="6" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="7" s="1" />
-                                <s p="8" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="7" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="8" s="1" />
-                                <s p="9" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="8" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="9" s="1" />
-                                <s p="10" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="9" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="10" s="1" />
-                                <s p="11" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="10" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="11" s="1" />
-                                <s p="12" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="11" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="12" s="1" />
-                                <s p="13" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="12" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="13" s="1" />
-                                <s p="14" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="13" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="14" s="1" />
-                                <s p="15" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="14" y="0" width="1" height="1" />
-                    <style t="2">
-                        <conditionalFormats />
-                        <indent>2px</indent>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="0" s="1" />
-                                <s p="1" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="0" y="0" width="1" height="1" />
-                    <style t="2">
-                        <height>38.25pt</height>
-                        <conditionalFormats />
-                        <fontBold>1</fontBold>
-                        <halign>2</halign>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="2" s="1" />
-                                <s p="3" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="2" y="0" width="1" height="1" />
-                    <style t="2">
-                        <height>14.25pt</height>
-                        <outlineLevel>1</outlineLevel>
-                        <conditionalFormats />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="1">
-                            <segments>
-                                <s p="15" s="1" />
-                                <s p="1048576" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="15" y="0" width="1048561" height="1" />
-                    <style t="2">
-                        <hidden>1</hidden>
-                        <conditionalFormats />
-                    </style>
-                </region>
-            </rowStyles>
-            <styles>
-                <region>
-                    <lines>
-                        <l ymin="3" ymax="15">
-                            <segments>
-                                <s p="0" s="1" />
-                                <s p="9" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="0" y="3" width="9" height="12" />
-                    <style t="0">
-                        <conditionalFormats />
-                        <halign>1</halign>
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="3">
-                            <segments>
-                                <s p="0" s="1" />
-                                <s p="7" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="0" y="0" width="7" height="3" />
-                    <style t="0">
-                        <conditionalFormats />
-                        <background id="0" />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="3">
-                            <segments>
-                                <s p="7" s="1" />
-                                <s p="8" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="7" y="0" width="1" height="3" />
-                    <style t="0">
-                        <conditionalFormats />
-                        <background id="1" />
-                    </style>
-                </region>
-                <region>
-                    <lines>
-                        <l ymin="0" ymax="3">
-                            <segments>
-                                <s p="8" s="1" />
-                                <s p="9" s="0" />
-                            </segments>
-                        </l>
-                    </lines>
-                    <bounds x="8" y="0" width="1" height="3" />
-                    <style t="0">
-                        <conditionalFormats />
-                        <background id="2" />
-                    </style>
-                </region>
-            </styles>
-            <mergedCells />
-            <columns>
-                <column n="0" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-                <column n="1" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-                <column n="2" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-                <column n="3" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-                <column n="4" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-                <column n="5" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-                <column n="6" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-                <column n="7" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-                <column n="8" pageBreak="0" collapsed="0">
-                    <tag />
-                </column>
-            </columns>
-            <data>
-                <row r="0">
-                    <c c="0">
-                        <v t="23">1</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">2</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">3</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">4</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">5</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">6</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">7</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">8</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">9</v>
-                    </c>
-                </row>
-                <row r="1">
-                    <c c="0">
-                        <v t="23">10</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">10</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">10</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">10</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">10</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">10</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">10</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">11</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">12</v>
-                    </c>
-                </row>
-                <row r="2">
-                    <c c="0">
-                        <v t="23">13</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">14</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">15</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">16</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">17</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">18</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">19</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">20</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">21</v>
-                    </c>
-                </row>
-                <row r="3">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="1">22</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">23</v>
-                    </c>
-                </row>
-                <row r="4">
-                    <c c="0">
-                        <v t="23">24</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">25</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">26</v>
-                    </c>
-                </row>
-                <row r="5">
-                    <c c="0">
-                        <v t="23">27</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">28</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">29</v>
-                    </c>
-                </row>
-                <row r="6">
-                    <c c="0">
-                        <v t="23">30</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">31</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">32</v>
-                    </c>
-                </row>
-                <row r="7">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">33</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">34</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">28</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">35</v>
-                    </c>
-                </row>
-                <row r="8">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">33</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">36</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">37</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">38</v>
-                    </c>
-                </row>
-                <row r="9">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">33</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">39</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">25</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">40</v>
-                    </c>
-                </row>
-                <row r="10">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">41</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">37</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">42</v>
-                    </c>
-                </row>
-                <row r="11">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">41</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">43</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">44</v>
-                    </c>
-                </row>
-                <row r="12">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">45</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">46</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">47</v>
-                    </c>
-                </row>
-                <row r="13">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">48</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">31</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">49</v>
-                    </c>
-                </row>
-                <row r="14">
-                    <c c="0">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="1">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="2">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="3">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="4">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="5">
-                        <v t="23">21</v>
-                    </c>
-                    <c c="6">
-                        <v t="23">48</v>
-                    </c>
-                    <c c="7">
-                        <v t="23">31</v>
-                    </c>
-                    <c c="8">
-                        <v t="23">50</v>
-                    </c>
-                </row>
-            </data>
-            <hyperlinks />
-            <drawing />
-        </worksheet>
-    </worksheets>
-    <resources>
-        <sharedStrings>
-            <s n="1">Car Type</s>
-            <s n="2">Is Car New?</s>
-            <s n="3">Car Age</s>
-            <s n="4">Uninsured Motorist
+  <worksheets>
+    <worksheet name="Sheet1" defaultColumnWidth="48pt" defaultRowHeight="14.25pt" frozenRows="3">
+      <columnStyles>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="0" s="1" />
+                <s p="1" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="0" y="0" width="1" height="1" />
+          <style t="1">
+            <width>54.75pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="1" s="1" />
+                <s p="2" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="1" y="0" width="1" height="1" />
+          <style t="1">
+            <width>63pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="2" s="1" />
+                <s p="3" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="2" y="0" width="1" height="1" />
+          <style t="1">
+            <width>48pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="3" s="1" />
+                <s p="4" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="3" y="0" width="1" height="1" />
+          <style t="1">
+            <width>99pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="4" s="1" />
+                <s p="5" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="4" y="0" width="1" height="1" />
+          <style t="1">
+            <width>91.5pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="5" s="1" />
+                <s p="6" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="5" y="0" width="1" height="1" />
+          <style t="1">
+            <width>92.25pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="6" s="1" />
+                <s p="7" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="6" y="0" width="1" height="1" />
+          <style t="1">
+            <width>70.5pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="7" s="1" />
+                <s p="8" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="7" y="0" width="1" height="1" />
+          <style t="1">
+            <width>55.5pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="8" s="1" />
+                <s p="9" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="8" y="0" width="1" height="1" />
+          <style t="1">
+            <width>48pt</width>
+            <hidden>0</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="9" s="1" />
+                <s p="1024" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="9" y="0" width="1015" height="1" />
+          <style t="1">
+            <hidden>1</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+      </columnStyles>
+      <rowStyles>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="1" s="1" />
+                <s p="2" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="1" y="0" width="1" height="1" />
+          <style t="2">
+            <height>14.25pt</height>
+            <hidden>1</hidden>
+            <outlineLevel>1</outlineLevel>
+            <conditionalFormats />
+            <fontSize>8</fontSize>
+            <fontItalic>1</fontItalic>
+            <halign>2</halign>
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="3" s="1" />
+                <s p="4" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="3" y="0" width="1" height="1" />
+          <style t="2">
+            <height>14.25pt</height>
+            <conditionalFormats />
+            <fontName>Segoe UI</fontName>
+            <fontSize>9</fontSize>
+            <indent>2px</indent>
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="4" s="1" />
+                <s p="14" s="0" />
+                <s p="14" s="1" />
+                <s p="15" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="4" y="0" width="11" height="1" />
+          <style t="2">
+            <height>14.25pt</height>
+            <conditionalFormats />
+            <fontName>Segoe UI</fontName>
+            <fontSize>9</fontSize>
+            <indent>2px</indent>
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="0" s="1" />
+                <s p="1" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="0" y="0" width="1" height="1" />
+          <style t="2">
+            <height>38.25pt</height>
+            <conditionalFormats />
+            <fontBold>1</fontBold>
+            <halign>2</halign>
+            <valign>2</valign>
+            <wrapText>1</wrapText>
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="2" s="1" />
+                <s p="3" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="2" y="0" width="1" height="1" />
+          <style t="2">
+            <height>14.25pt</height>
+            <hidden>1</hidden>
+            <outlineLevel>1</outlineLevel>
+            <conditionalFormats />
+            <fontSize>8</fontSize>
+            <fontItalic>1</fontItalic>
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="1">
+              <segments>
+                <s p="15" s="1" />
+                <s p="1048576" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="15" y="0" width="1048561" height="1" />
+          <style t="2">
+            <hidden>1</hidden>
+            <conditionalFormats />
+          </style>
+        </region>
+      </rowStyles>
+      <styles>
+        <region>
+          <lines>
+            <l ymin="3" ymax="14">
+              <segments>
+                <s p="0" s="1" />
+                <s p="9" s="0" />
+              </segments>
+            </l>
+            <l ymin="14" ymax="15">
+              <segments>
+                <s p="0" s="1" />
+                <s p="8" s="0" />
+                <s p="8" s="1" />
+                <s p="9" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="0" y="3" width="9" height="12" />
+          <style t="0">
+            <conditionalFormats />
+            <halign>1</halign>
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="3">
+              <segments>
+                <s p="0" s="1" />
+                <s p="1" s="0" />
+                <s p="1" s="1" />
+                <s p="2" s="0" />
+                <s p="2" s="1" />
+                <s p="3" s="0" />
+                <s p="3" s="1" />
+                <s p="4" s="0" />
+                <s p="4" s="1" />
+                <s p="5" s="0" />
+                <s p="5" s="1" />
+                <s p="6" s="0" />
+                <s p="6" s="1" />
+                <s p="7" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="0" y="0" width="7" height="3" />
+          <style t="0">
+            <conditionalFormats />
+            <background id="0" />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="3">
+              <segments>
+                <s p="7" s="1" />
+                <s p="8" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="7" y="0" width="1" height="3" />
+          <style t="0">
+            <conditionalFormats />
+            <background id="1" />
+          </style>
+        </region>
+        <region>
+          <lines>
+            <l ymin="0" ymax="3">
+              <segments>
+                <s p="8" s="1" />
+                <s p="9" s="0" />
+              </segments>
+            </l>
+          </lines>
+          <bounds x="8" y="0" width="1" height="3" />
+          <style t="0">
+            <conditionalFormats />
+            <background id="2" />
+          </style>
+        </region>
+      </styles>
+      <mergedCells />
+      <columns>
+        <column n="0" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+        <column n="1" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+        <column n="2" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+        <column n="3" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+        <column n="4" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+        <column n="5" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+        <column n="6" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+        <column n="7" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+        <column n="8" pageBreak="0" collapsed="0">
+          <tag />
+        </column>
+      </columns>
+      <data>
+        <row r="0" title="MultiHit" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">1</v>
+          </c>
+          <c c="1">
+            <v t="23">2</v>
+          </c>
+          <c c="2">
+            <v t="23">3</v>
+          </c>
+          <c c="3">
+            <v t="23">4</v>
+          </c>
+          <c c="4">
+            <v t="23">5</v>
+          </c>
+          <c c="5">
+            <v t="23">6</v>
+          </c>
+          <c c="6">
+            <v t="23">7</v>
+          </c>
+          <c c="7">
+            <v t="23">8</v>
+          </c>
+          <c c="8">
+            <v t="23">9</v>
+          </c>
+        </row>
+        <row r="1" title="" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">10</v>
+          </c>
+          <c c="1">
+            <v t="23">10</v>
+          </c>
+          <c c="2">
+            <v t="23">10</v>
+          </c>
+          <c c="3">
+            <v t="23">10</v>
+          </c>
+          <c c="4">
+            <v t="23">10</v>
+          </c>
+          <c c="5">
+            <v t="23">10</v>
+          </c>
+          <c c="6">
+            <v t="23">10</v>
+          </c>
+          <c c="7">
+            <v t="23">11</v>
+          </c>
+          <c c="8">
+            <v t="23">12</v>
+          </c>
+        </row>
+        <row r="2" title="" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">13</v>
+          </c>
+          <c c="1">
+            <v t="23">14</v>
+          </c>
+          <c c="2">
+            <v t="23">15</v>
+          </c>
+          <c c="3">
+            <v t="23">16</v>
+          </c>
+          <c c="4">
+            <v t="23">17</v>
+          </c>
+          <c c="5">
+            <v t="23">18</v>
+          </c>
+          <c c="6">
+            <v t="23">19</v>
+          </c>
+          <c c="7">
+            <v t="23">20</v>
+          </c>
+          <c c="8">
+            <v t="23">21</v>
+          </c>
+        </row>
+        <row r="3" title="1" pageBreak="0" collapsed="1">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="1">22</v>
+          </c>
+          <c c="8">
+            <v t="23">23</v>
+          </c>
+        </row>
+        <row r="4" title="2" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">24</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">25</v>
+          </c>
+          <c c="8">
+            <v t="23">26</v>
+          </c>
+        </row>
+        <row r="5" title="3" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">27</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">28</v>
+          </c>
+          <c c="8">
+            <v t="23">29</v>
+          </c>
+        </row>
+        <row r="6" title="4" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">30</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">31</v>
+          </c>
+          <c c="8">
+            <v t="23">32</v>
+          </c>
+        </row>
+        <row r="7" title="5" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">33</v>
+          </c>
+          <c c="2">
+            <v t="23">34</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">28</v>
+          </c>
+          <c c="8">
+            <v t="23">35</v>
+          </c>
+        </row>
+        <row r="8" title="6" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">33</v>
+          </c>
+          <c c="2">
+            <v t="23">36</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">37</v>
+          </c>
+          <c c="8">
+            <v t="23">38</v>
+          </c>
+        </row>
+        <row r="9" title="7" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">33</v>
+          </c>
+          <c c="2">
+            <v t="23">39</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">25</v>
+          </c>
+          <c c="8">
+            <v t="23">40</v>
+          </c>
+        </row>
+        <row r="10" title="8" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">41</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">37</v>
+          </c>
+          <c c="8">
+            <v t="23">42</v>
+          </c>
+        </row>
+        <row r="11" title="9" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">41</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">43</v>
+          </c>
+          <c c="8">
+            <v t="23">44</v>
+          </c>
+        </row>
+        <row r="12" title="10" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">45</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">46</v>
+          </c>
+          <c c="8">
+            <v t="23">47</v>
+          </c>
+        </row>
+        <row r="13" title="11" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">48</v>
+          </c>
+          <c c="6">
+            <v t="23">21</v>
+          </c>
+          <c c="7">
+            <v t="23">31</v>
+          </c>
+          <c c="8">
+            <v t="23">49</v>
+          </c>
+        </row>
+        <row r="14" title="12" pageBreak="0" collapsed="0">
+          <c c="0">
+            <v t="23">21</v>
+          </c>
+          <c c="1">
+            <v t="23">21</v>
+          </c>
+          <c c="2">
+            <v t="23">21</v>
+          </c>
+          <c c="3">
+            <v t="23">21</v>
+          </c>
+          <c c="4">
+            <v t="23">21</v>
+          </c>
+          <c c="5">
+            <v t="23">21</v>
+          </c>
+          <c c="6">
+            <v t="23">48</v>
+          </c>
+          <c c="7">
+            <v t="23">50</v>
+          </c>
+          <c c="8">
+            <v t="23">51</v>
+          </c>
+        </row>
+      </data>
+      <hyperlinks />
+      <drawing />
+    </worksheet>
+  </worksheets>
+  <resources>
+    <sharedStrings>
+      <s n="1">Car Type</s>
+      <s n="2">Is Car New?</s>
+      <s n="3">Car Age</s>
+      <s n="4">Uninsured Motorist
 coverage is included</s>
-            <s n="5">Medical coverage
+      <s n="5">Medical coverage
 is included</s>
-            <s n="6">Potential Occupant
+      <s n="6">Potential Occupant
 Injury Rate</s>
-            <s n="7">Potential 
+      <s n="7">Potential 
 Theft Rating</s>
-            <s n="8">Auto 
+      <s n="8">Auto 
 Premium</s>
-            <s n="9">Rule Name</s>
-            <s n="10">Condition</s>
-            <s n="11">Action</s>
-            <s n="12">Name</s>
-            <s n="13">car.Style == $value</s>
-            <s n="14">(((car.ModelYear==DateTime.Today.Year) || (car.ModelYear==(DateTime.Today.Year+1))) == $value)</s>
-            <s n="15">car.Age</s>
-            <s n="16">car.UninsuredMotoristCoverage==$value</s>
-            <s n="17">car.HasMedicalCoverage==$value</s>
-            <s n="18">car.OccupantInjuryCategory==$value</s>
-            <s n="19">car.TheftCategory==$value</s>
-            <s n="20">car.AutoPremium</s>
-            <s n="21"></s>
-            <s n="22">= 0</s>
-            <s n="23">R1</s>
-            <s n="24">Compact</s>
-            <s n="25">+= 250</s>
-            <s n="26">R2</s>
-            <s n="27">Sedan</s>
-            <s n="28">+= 400</s>
-            <s n="29">R3</s>
-            <s n="30">Luxury</s>
-            <s n="31">+= 500</s>
-            <s n="32">R4</s>
-            <s n="33">false</s>
-            <s n="34">&lt;6</s>
-            <s n="35">R5</s>
-            <s n="36">&lt; 5</s>
-            <s n="37">+= 300</s>
-            <s n="38">R6</s>
-            <s n="39">[5; 10]</s>
-            <s n="40">R7</s>
-            <s n="41">true</s>
-            <s n="42">R8</s>
-            <s n="43">+= 600</s>
-            <s n="44">R9</s>
-            <s n="45">ExtremelyHigh</s>
-            <s n="46">+= 1000</s>
-            <s n="47">R10</s>
-            <s n="48">High</s>
-            <s n="49">R11</s>
-            <s n="50">R12</s>
-        </sharedStrings>
-        <brushes>
-            <brush n="2" t="solid">
-                <color>#FFFFFFC0</color>
-            </brush>
-            <brush n="1" t="solid">
-                <color>#FFFFE0C0</color>
-            </brush>
-            <brush n="0" t="solid">
-                <color>#FFC0FFC0</color>
-            </brush>
-        </brushes>
-        <images />
-    </resources>
-    <namedRanges />
+      <s n="9">Rule Name</s>
+      <s n="10">Condition</s>
+      <s n="11">Action</s>
+      <s n="12">Name</s>
+      <s n="13">car.Style == $value</s>
+      <s n="14">(((car.ModelYear==DateTime.Today.Year) || (car.ModelYear==(DateTime.Today.Year+1))) == $value)</s>
+      <s n="15">car.Age</s>
+      <s n="16">car.UninsuredMotoristCoverage==$value</s>
+      <s n="17">car.HasMedicalCoverage==$value</s>
+      <s n="18">car.OccupantInjuryCategory==$value</s>
+      <s n="19">car.TheftCategory==$value</s>
+      <s n="20">car.AutoPremium</s>
+      <s n="21"></s>
+      <s n="22">=0</s>
+      <s n="23">R1</s>
+      <s n="24">Compact</s>
+      <s n="25">+= 250</s>
+      <s n="26">R2</s>
+      <s n="27">Sedan</s>
+      <s n="28">+= 400</s>
+      <s n="29">R3</s>
+      <s n="30">Luxury</s>
+      <s n="31">+= 500</s>
+      <s n="32">R4</s>
+      <s n="33">false</s>
+      <s n="34">&lt;6</s>
+      <s n="35">R5</s>
+      <s n="36">&lt; 5</s>
+      <s n="37">+= 300</s>
+      <s n="38">R6</s>
+      <s n="39">[5; 10]</s>
+      <s n="40">R7</s>
+      <s n="41">true</s>
+      <s n="42">R8</s>
+      <s n="43">+= 600</s>
+      <s n="44">R9</s>
+      <s n="45">ExtremelyHigh</s>
+      <s n="46">+= 1000</s>
+      <s n="47">R10</s>
+      <s n="48">High</s>
+      <s n="49">R11</s>
+      <s n="50">+= 22</s>
+      <s n="51">R12</s>
+    </sharedStrings>
+    <brushes>
+      <brush n="2" t="solid">
+        <color>#FFFFFFC0</color>
+      </brush>
+      <brush n="1" t="solid">
+        <color>#FFFFE0C0</color>
+      </brush>
+      <brush n="0" t="solid">
+        <color>#FFC0FFC0</color>
+      </brush>
+    </brushes>
+    <images />
+  </resources>
+  <namedRanges />
+  <FlexRule>
+    <Columns>
+      <Add name="Car Type" description="" />
+      <Add name="Is Car New?" description="" />
+      <Add name="Car Age" description="" />
+      <Add name="Uninsured Motorist&#xA;coverage is included" description="" />
+      <Add name="Medical coverage&#xA;is included" description="" />
+      <Add name="Potential Occupant&#xA;Injury Rate" description="" />
+      <Add name="Potential &#xA;Theft Rating" description="" />
+      <Add name="Auto &#xA;Premium" description="" />
+      <Add name="Rule Name" description="" />
+    </Columns>
+  </FlexRule>
 </workbook>
