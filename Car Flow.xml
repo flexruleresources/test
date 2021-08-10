@@ -1,1 +1,1 @@
-      <Database connection="Data Source=.\SqlExpress01;Initial Catalog=Car-Insurance;Trusted_Connection=yes" type="MsSql">
+      <Database connection="Data Source=.\SqlExpress01;Initial Catalog=Car-Insurance;Trusted_Connection=true" type="MsSql">
