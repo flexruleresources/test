@@ -17,6 +17,10 @@ Premium</Text>
         <X>270.3958</X>
         <Y>32.8</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -51,6 +55,10 @@ Premium</Text>
         <X>294.283</X>
         <Y>95.49372</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -85,6 +93,10 @@ Premium</Text>
         <X>268.1947</X>
         <Y>132.3647</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -119,6 +131,10 @@ Premium</Text>
         <X>309.3193</X>
         <Y>129.8584</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -153,6 +169,10 @@ Premium</Text>
         <X>344.5805</X>
         <Y>78.65415</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -187,6 +207,10 @@ Premium</Text>
         <X>294.343</X>
         <Y>56.16458</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -221,6 +245,10 @@ Premium</Text>
         <X>254.7095</X>
         <Y>54.84166</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -255,6 +283,10 @@ Premium</Text>
         <X>215.0492</X>
         <Y>82.88747</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -290,6 +322,10 @@ List</Text>
         <X>227.3189</X>
         <Y>114.1563</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -324,6 +360,10 @@ List</Text>
         <X>270.0169</X>
         <Y>77.06666</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
@@ -936,7 +976,7 @@ List</Text>
       </End>
     </Points>
   </NodeInfo>
-  <NodeInfo name="Note193" type="Note">
+  <NodeInfo name="Note185" type="Note">
     <Label>
       <Text>Car Insurance 
 
@@ -956,6 +996,10 @@ Premium Calculation Decision</Text>
         <X>176.3446</X>
         <Y>77.95016</Y>
       </Location>
+      <Alignment>
+        <Vertical>Center</Vertical>
+        <Horizontal>Center</Horizontal>
+      </Alignment>
     </Label>
     <Image></Image>
     <ImageAlign>Center</ImageAlign>
