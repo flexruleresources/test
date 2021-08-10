@@ -4,7 +4,7 @@
         <Decision name="Determain Rating" contextMode="Shared">
             <Transition name="Transition8" to="Auto Premium" relationType="Information" />
         </Decision>
-        <BusinessKnowledge name="Define Potential Theft Rating" type="NaturalLanguage" uri="PotentialTheftRating-NL.xml" contextMode="Shared">
+        <BusinessKnowledge name="Define Potential Theft Rating" type="NaturalLanguage" uri="PotentialTheftRating-NL123.xml" contextMode="Shared">
             <Transition name="Transition3" to="Determain Rating" relationType="Knowledge" />
         </BusinessKnowledge>
         <BusinessKnowledge name="Define Potential Occupant Injury Rating" metadataTemplate="Knowledge Source" uri="PotentialOccupantInjuryRating.xml" contextMode="Shared">
